@@ -14,7 +14,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left">Javascript, PHP, Python, HTML, CSS,...</p>
 
-<h3 align="left">Framework:</h3>
+<h3 align="left">Frameworks:</h3>
 <p align="left">Nestjs, Laravel...</p>
 
 <h3 align="left">Others:</h3>
