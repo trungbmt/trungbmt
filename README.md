@@ -28,7 +28,7 @@ const selfIntroduction = {
 
 <p>
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=trungbmt&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="@trungbmt's github-readme-stats" width='48%'/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=trungbmt&theme=gotham&hide_border=false&mode=weekly" alt="GitHub Streak" width='48%'/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=trungbmt&theme=gotham&hide_border=true&mode=weekly" alt="GitHub Streak" width='48%'/>
  </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
