@@ -1,5 +1,4 @@
 <h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ5cTQ2OTBxc2xqdGk2MmRmbDY4aG5lYmdhNjhndnBldGpxMXcwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HVofJOWFXGpDX4xeg1/giphy.gif" width="150"> Hi, I'm Trung! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ5cTQ2OTBxc2xqdGk2MmRmbDY4aG5lYmdhNjhndnBldGpxMXcwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HVofJOWFXGpDX4xeg1/giphy.gif" width="150"></h1>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://vku.udn.vn">University of Da Nang</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamV6aTJvczh6ajhjbThqZHJrajZ1MGtlOHo0aGt4c3EyYWJ0emRsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XuBtcsV266vepmoEYG/giphy.gif" width="30">
 </em></p>
 
