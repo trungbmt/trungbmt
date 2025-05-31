@@ -11,17 +11,17 @@
 
 ```javascript
 const selfIntroduction = {
-  name: "Phạm Đức Trung",
+  name: "Pham Duc Trung",
   gender: "Male",
-  dob: "24/10/2001",
+  dob: "10/24/2001",
   education: {
     university:
       "Vietnam - Korea University of Information and Communication Technology (Da Nang University)",
     degree: "Bachelor of Engineering",
   },
-  programmingLanguages: ["Javascript", "Typescript", "PHP", "Python", "Java"],
-  frameworks: ["Nestjs", "Laravel"],
-  others: ["ReactJs", "NodeJs", "Ant Design", "Tailwind CSS", "Bootstrap"],
+  programmingLanguages: ["Typescript", "Javascript", "Python", "PHP", "Java"],
+  frameworks: ["NextJS", "Nestjs", "Laravel", ...otherFrameworks],
+  others: ["ReactJs", "NodeJs", "Shadcn", "Ant Design", "Tailwind CSS"],
   tools: ["Redux", "Docker", "Git"],
 };
 ```
